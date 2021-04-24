@@ -3,9 +3,11 @@ Date;Event;Gate
 2019-02-04 09:07:03 ;Reader entry;E/3/KD1/3-8
 2019-02-04 17:32:34 ;Reader exit;E/3/KD1/3-8
 2019-02-04 19:33:03 ;Reader exit;E/0/KD1/7-8
+
 2019-02-05 09:10:34 ;Reader entry;E/0/KD1/7-9
 2019-02-05 09:11:35 ;Reader entry;E/3/KD1/3-8
 2019-02-05 15:26:36 ;Reader entry;E/0/KD1/8-8
+
 2019-02-06 09:21:57 ;Reader entry;E/0/KD1/7-9
 2019-02-06 09:22:27 ;Reader entry;E/3/KD1/3-8
 2019-02-06 12:07:06 ;Reader exit;E/3/KD1/3-8
@@ -13,6 +15,7 @@ Date;Event;Gate
 2019-02-06 12:23:43 ;Reader entry;E/0/KD1/7-9
 2019-02-06 12:24:31 ;Reader entry;E/3/KD1/3-8
 2019-02-06 16:09:44 ;Reader exit;E/0/KD1/8-8
+
 2019-02-07 09:09:57 ;Reader entry;E/0/KD1/7-9
 2019-02-07 09:10:27 ;Reader entry;E/3/KD1/3-8
 2019-02-07 10:56:26 ;Reader exit;E/3/KD1/3-8
@@ -48,9 +51,16 @@ Date;Event;Gate
 2021-04-24 12:33:00 ;Reader exit;E/0/KD1/7-8
 
 2021-04-26 14:33:00 ;Reader entry;E/3/KD1/3-8
-2021-04-26 13:34:00 ;Reader entry;E/0/KD1/7-8
+2021-04-26 15:34:00 ;Reader exit;E/0/KD1/7-8
 
-2021-04-26 12:34:00 ;Reader exit;E/0/KD1/7-8
-2021-04-26 11:34:00 ;Reader exit;E/0/KD1/7-8
+2021-04-26 16:34:00 ;Reader entry;E/0/KD1/7-8
+2021-04-26 17:34:00 ;Reader exit;E/0/KD1/7-8
 
-2021-04-27 10:33:00 ;Reader entry;E/3/KD1/3-8
+2021-04-27 10:33:00 ;Reader exit;E/3/KD1/3-8
+
+2021-04-28 07:33:00 ;Reader entry;E/0/KD1/3-8
+2021-04-28 10:33:00 ;Reader exit;E/0/KD1/3-8
+2021-04-28 12:33:00 ;Reader entry;E/0/KD1/3-8
+2021-04-28 13:33:00 ;Reader exit;E/0/KD1/3-8
+2021-04-28 14:33:00 ;Reader entry;E/0/KD1/3-8
+2021-04-28 15:33:00 ;Reader exit;E/0/KD1/3-8
