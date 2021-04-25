@@ -1,3 +1,11 @@
+
+
+
+
+
+______________________Tutaj jeszcze im dopisze kilka rzeczy ktore tutaj zrobilem zeby sie wyjasnic _______________________________
+
+
 Werjsa Pythona: 3.8.7
 System: Windows 10
 
